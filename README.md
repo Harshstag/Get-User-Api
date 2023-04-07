@@ -1,10 +1,8 @@
 # Get-User-Api
 ```
-binance
-yfinance
-fbprophet
-mplfinance
-streamlit
-tweepy
+open cmd
+npm install axios 
+cd react-app
+npm start
 ```
 
